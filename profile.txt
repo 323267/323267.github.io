@@ -4,24 +4,24 @@
 # Lines starting with # are comments and are ignored.
 # ============================================================
 
-name=Prof. Pin Luarn
+name=Inessa Materi
 
-title1=Top 2% Scientist Worldwide (2020-2026)
+title1=
 
-title2=2024 National Teaching Award Laureate
+title2=
 
-expertise=Internet Marketing, AI Applications, Agentic AI
+expertise=Operational Controlling
 
-education=Ph.D. in Industrial Engineering, University of Wisconsin-Madison, USA
+education=Bachelor of Science, Controlling, Finance & Accounting
 
-email=luarn@mail.ntust.edu.tw
-linkedin=https://pse.is/8nn88y
+email=materiin@hs-pforzheim.de
 
-about1=Prof. Luarn earned his B.S. in Industrial Engineering from Tunghai University,
-about2=and his M.S. and Ph.D. in Industrial Engineering from the University of Wisconsin-Madison.
-about3=Named among the world's top 2% scientists by Stanford University & Elsevier for seven consecutive years (2020-2026).
-about4=Recipient of the 2024 Presidential National Teaching Award, Taiwan
+linkedin=
 
-phone=+886-2-2737-6754
+about1=Master Controlling, Finance & Accounting Pforzheim University
+about2=
+about3=
 
-location=T2-409, National Taiwan University of Science and Technology, No. 43, Sec. 4, Keelung Rd., Taipei, Taiwan
+phone=111
+
+location=Pforzheim, Germany
