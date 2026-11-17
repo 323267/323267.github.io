@@ -6,9 +6,9 @@
 
 name=Inessa Materi
 
-title1=
+title1=Student ID:323267
 
-title2=
+title2=Student at Pforzheim University
 
 expertise=Operational Controlling
 
@@ -18,7 +18,7 @@ email=materiin@hs-pforzheim.de
 
 linkedin=
 
-about1=Master Controlling, Finance & Accounting Pforzheim University
+about1=Master Controlling, Finance & Accounting 
 about2=
 about3=
 about4=
