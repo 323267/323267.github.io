@@ -6,7 +6,7 @@
 
 name=Inessa Materi
 
-title1=Student ID:323267
+title1=Student ID: 323267
 
 title2=Student at Pforzheim University
 
